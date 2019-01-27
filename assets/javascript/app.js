@@ -1,0 +1,1 @@
+//I would have to set up variables for the awners inside of an array. then cycle throught the array and chose at random which one is the "correct awnser". When the user selects the correct awnser then it adds to the score displayed on site. If the user select the wrong awnser then it resets the score and starts again.
